@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace XMLParsers.Presentation
+namespace XMLParser.PDFViewer
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace XMLParsers.Presentation
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTask1());
+            Application.Run(new Form1());
         }
     }
 }

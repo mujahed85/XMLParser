@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace XMLParsers.Presentation
+namespace XMLParser.PDFViewer
 {
     public partial class Form1 : Form
     {

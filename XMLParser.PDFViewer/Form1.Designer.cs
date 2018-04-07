@@ -1,4 +1,4 @@
-﻿namespace XMLParsers.Presentation
+﻿namespace XMLParser.PDFViewer
 {
     partial class Form1
     {
